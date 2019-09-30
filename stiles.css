@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background: #F9E79F;
+    font-size: 20px;
+}
+
+#game-zone {
+    background: #F0B27A;
+    display: flex;
+    border-radius: 1em;
+}
+
+figure {
+    flex: 1;
+}
+
+#result {
+    background: #76D7C4;
+    border: 1px dashed white;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+#score {
+    border: 1px dashed white;
+    background: #AF7AC5;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+button {
+    height: 150px;
+    width: 150px;
+    background: #F4F6F7;
+    border: 5px solid #F1948A;
+    border-radius: 1em;
+}
